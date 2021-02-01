@@ -1,15 +1,1 @@
-.main_header {
-  width: 100%;
-  background-color: aquamarine;
-}
-
-.main_header_navigation {
-  width: 1080px;
-  margin: 0 auto;
-}
-
-.main_header_navigation a {
-  color: dimgray;
-}
-
-/*# sourceMappingURL=style.css.map */
+.main_header{width:100%;background-color:#7fffd4}.main_header_navigation{width:1080px;margin:0 auto}.main_header_navigation a{color:dimgray;padding:55px}/*# sourceMappingURL=style.css.map */
