@@ -6,12 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="3d7139ca-97fa-415a-96f6-965c30b8f046" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/css/reset.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/css/reset.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/scss/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_cdn/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_cdn/css/reset.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_cdn/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_cdn/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_cdn/scss/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/reset/_reset.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_cdn/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,11 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Laradev\SASS\sass\_cdn\scss\reset" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612206389252</updated>
       <workItem from="1612206390502" duration="3608000" />
-      <workItem from="1612217111229" duration="1120000" />
+      <workItem from="1612217111229" duration="3255000" />
+      <workItem from="1612708229750" duration="2366000" />
     </task>
     <servers />
   </component>
