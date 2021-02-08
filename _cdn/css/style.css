@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -5,20 +6,57 @@
   text-decoration: none;
 }
 
-.main_header {
-  width: 100%;
-  background-color: aquamarine;
+* {
+  font-family: "Open Sans", sans-serif;
 }
 
-.main_header_navigation {
-  width: 1080px;
+.main_header {
+  width: 100%;
+  background-color: #40E0D0;
+}
+.main_header .main_header_navigation {
+  width: 960px;
   margin: 0 auto;
   padding: 20px;
 }
-
-.main_header_navigation a {
+.main_header .main_header_navigation a {
   color: dimgray;
   padding: 10px;
+}
+.main_header .main_header_navigation a:hover {
+  color: black;
+}
+
+/**
+HOME>>
+*/
+.main_site {
+  width: 100%;
+  background-color: #FFF;
+}
+.main_site .main_site_content {
+  width: 960px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.main_site .main_site_content h1 {
+  text-align: center;
+  font-size: 1.2em;
+  color: #666;
+}
+
+.main_footer {
+  width: 100%;
+  background-color: #40E0D0;
+}
+.main_footer .main_footer_content {
+  width: 960px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.main_footer .main_footer_content p {
+  text-align: center;
+  color: dimgray;
 }
 
 /*# sourceMappingURL=style.css.map */
