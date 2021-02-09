@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d7139ca-97fa-415a-96f6-965c30b8f046" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_cdn/scss/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_cdn/scss/components/_title.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_cdn/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_cdn/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/scss/fold/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/fold/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_cdn/scss/fold/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/fold/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_cdn/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/_variables.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_cdn/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_cdn/scss/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -69,7 +70,7 @@
       <updated>1612206389252</updated>
       <workItem from="1612206390502" duration="3608000" />
       <workItem from="1612217111229" duration="3255000" />
-      <workItem from="1612708229750" duration="8022000" />
+      <workItem from="1612708229750" duration="14856000" />
     </task>
     <servers />
   </component>

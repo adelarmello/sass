@@ -1,13 +1,15 @@
 @import "reset/reset";
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-* {
-  font-family: 'Open Sans', sans-serif;
-}
 
 @import "variables";
 
 @import "fold/header";
+
+/**
+COMPONENTS
+*/
+@import "components/buttons";
+@import "components/title";
 
 /**
 HOME>>
